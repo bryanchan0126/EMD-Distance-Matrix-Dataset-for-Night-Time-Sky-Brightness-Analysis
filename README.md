@@ -6,9 +6,11 @@ This repository contains the complete Earth Mover's Distance (EMD) distance matr
 
 The dataset was generated from keograms produced by AllSky cameras deployed at three study sites in Malaysia:
 
-Chagar Hutang Turtle Sanctuary, Terengganu
-Kerachut Beach, Penang
-Universiti Sains Malaysia (USM), Penang
+1. Chagar Hutang Turtle Sanctuary, Terengganu
+
+2. Kerachut Beach, Penang
+
+3. Universiti Sains Malaysia (USM), Penang
 
 **Purpose**
 
